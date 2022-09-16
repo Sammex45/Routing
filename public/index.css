@@ -5,9 +5,20 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+.chatscrum{
+  background-color: #50a3a2;
+  padding: 1.5rem;
+  color: #fff;
+  font-size: 1.7rem;
+  font-weight: bold;
+}
+.App{
+  /* margin: 20px; */
 }
