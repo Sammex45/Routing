@@ -1,0 +1,16 @@
+.links {
+    display: flex;
+    margin-left: 130px;
+}
+
+h4 {
+    margin: 10px;
+    cursor: pointer;
+    
+}
+
+
+.head{
+    margin: 23px;
+}
+ 
